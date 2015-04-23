@@ -1,0 +1,158 @@
+img {
+padding-top: 10px;
+margin-bottom: 10px;
+alignment-adjust:baseline;
+}
+
+footer {
+list-style-type: none;
+text-align:center;
+color: #333333;
+font: .5em 'BonvenoCF-Light' bold;
+margin-top: 20px;
+}
+
+.background {
+background: #996666;
+height: 500px;
+width: 800px;
+}
+
+.menu {
+padding-top: 10px;
+list-style-type: none;
+text-align: center;
+color: #333333;
+font: .9em 'BonvenoCF-Light bold;
+margin-top: -20px;
+}
+
+ul.menu {
+list-style-type:none;
+text-align:center;
+color:#333333;
+font: .9em 'BonvenoCF-Light' bold;
+margin-top: -20px;
+}
+
+li.menu {
+list-style-type:none;
+text-align:center;
+color:#333333;
+font: .9em 'BonvenoCF-Light' bold;
+alignment-adust:central;
+padding: 0px 10px 0px 0px;
+}
+
+li.menu_text {
+list-style-type: none;
+text-align: left;
+margin-top:-50px;
+alignment-adjust: baseline;
+}
+
+.main_image {
+align: center;
+margin-left: 50px;
+margin-top: 50px;
+margin-bottom: 50px;
+alignment-adjust:central;
+margin-left: auto;
+margin-right: auto;
+}
+
+#main_image {
+align: center;
+margin-left: 50px;
+margin-top: 50px;
+margin-bottom:50px;
+alginemtn-adjust: central;
+margin-left:auto;
+margin-right:auto;
+}
+
+.main_image {
+margin-left: 50px;
+text-align: center;
+}
+
+.main_text {
+width: 600px;
+align: left;
+margin-left: 500px;
+color: #333333;
+font: .75em 'BonvenoCF-Light';
+}
+
+a {
+list-style-type: none;
+text-align:center;
+margin-left: 5px;
+color: #333333;
+font: .9em 'BonvenoCF-Light';
+text-decoration:none;
+}
+
+@font-face {
+font-family: 'BonvenoCF-Light';
+src: url('BonvenoCF-Light'webfont.eot');
+src: url('BonvenoCF-Light-webfont.eot?#iefix') format('embedded-opentype'),
+url('BonvenoCF-Light-webfont.woff') format('.woff'),
+url('BonvenoCF-Light-webfont.ttf') format('truetype'),
+url('BonvenoCF-Light-webfont.svg#bonvenocflight') format('.svg');
+font-weight: normal;
+font-style: normal;
+}
+
+.form {
+height: 350px;
+width: 450px;
+text-align: center;
+}
+
+h1 {
+list-style-type:none;
+text-align:center;
+margin: 5px;
+padding: 5px;
+color: #fff;
+font: 2.9em 'BonvenoCF';
+text-decoration:none;
+padding-top: 60px;
+}
+
+h2 {
+list-style-type: none;
+text-align:center;
+margin: 5px;
+padding: 5px;
+color: #333333;
+font: 1.9em 'BonvenoCF';
+text-decoration:none;
+padding-top: 60px;
+}
+
+.menuContainer {
+color: #333333;
+text-align:center;
+list-style-type: none;
+font: 1.5em 'BonvenoCF-Light';
+width: 100%;
+height: 20px;
+}
+
+.top_crop {
+align: center;
+alignment-adjust: central;
+margin-left: 100px;
+text-align: center;
+width: 1200px;
+height: 150px;
+margin-left: 75px;
+background-color: #333333;
+margin-left:auto;
+margin-right: auto;
+}
+
+
+
